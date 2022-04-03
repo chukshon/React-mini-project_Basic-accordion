@@ -34,7 +34,7 @@ git clone https://github.com/chukshon/React-project_Basic-accordion.git
 After creation, your project should look like this:
 
 ```
-React-project-basic-review-app/
+React-project_Basic-accordion/
   node_modules/
   public/
     index.html
