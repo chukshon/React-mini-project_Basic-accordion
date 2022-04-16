@@ -1,4 +1,4 @@
-Hey! I'm on a mission to learn react. I'll be posting series of react projects likes this regularly.
+Hey! I'm on a mission to learn react. I'll be posting series of mini-react projects likes this regularly.
 
 
 # React-mini-project_Basic-accordion
