@@ -1,7 +1,7 @@
 Hey! I'm on a mission to learn react. I'll be posting series of react projects likes this regularly.
 
 
-# React-project_basic-accordion.
+# React-mini-project_Basic-accordion
 This is a basic accordion app where we have a list of questions and we can toggle the answers also as the user toggles the answer the icon changes inside the button,This was built with React, Html and CSS. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -22,19 +22,19 @@ To install, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/chukshon/React-project_Basic-accordion.git
+sudo git clone https://github.com/chukshon/React-mini-project_Basic-accordion.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/chukshon/React-project_Basic-accordion.git
+git clone https://github.com/chukshon/React-mini-project_Basic-accordion.git
 ```
 
 After creation, your project should look like this:
 
 ```
-React-project_Basic-accordion/
+React-mini-project_Basic-accordion/
   node_modules/
   public/
     index.html
@@ -95,11 +95,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
-
-
-#### Idea
-
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
 
 ## License
